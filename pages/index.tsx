@@ -22,6 +22,11 @@ const HomePage = () => {
               <a>introduce!</a>
             </Link>
           </li>
+          <li>
+            <Link href="/dynamic/home">
+              <a>Dynamic Route! (test)</a>
+            </Link>
+          </li>
         </h2>
       </div>
     </>
